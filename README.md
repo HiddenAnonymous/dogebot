@@ -13,5 +13,5 @@ you'll get a code from Telegram, set the code too.
 Then you'll start getting messages from the bot so
 open Telegram and click every link it gives you.
 
-The script will do the job of request the links so 
-you save time.
+The script will do the job of request the links for
+you so you save time.
