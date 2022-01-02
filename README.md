@@ -8,8 +8,8 @@ cd dogebot && ls
 python dogebot.py
 ```
 # Note:
-When you open the script, set your phone number and
-you'll get a code from Telegram, set the code too.
+When you open the script, set your phone number with
+your country code and you'll get a code from Telegram, set the code too.
 Then you'll start getting messages from the bot so
 open Telegram and click every link it gives you.
 
